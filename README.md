@@ -1,2 +1,3 @@
 # temp-repo
-For the assignment from OpenSourceSW
+For the OpenSourceSW assignment.
+
